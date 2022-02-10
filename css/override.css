@@ -36,3 +36,11 @@
   margin: 0 auto;
   box-shadow: 5px 5px 10px #dfdbda;
 }
+
+.owl-carousel .owl-item.active {
+  width: 250px !important;
+}
+
+.owl-stage-outer .owl-stage {
+  width: fit-content !important;
+}
