@@ -40,3 +40,7 @@
 .expertise-sub-header {
   font-size: 20px;
 }
+
+.rounded {
+  border-radius: 50% !important;
+}
