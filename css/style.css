@@ -28,11 +28,6 @@ a:focus {
   text-decoration: none;
 }
 
-.gdriveVideo {
-  width: 730;
-  height: 415;
-}
-
 p {
   padding: 0;
   margin: 0 0 30px 0;
@@ -1644,5 +1639,5 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: fixed;
   top: 100px;
   width: 100vw;
-  height: 70px;
+  min-height: 100px;
 }
